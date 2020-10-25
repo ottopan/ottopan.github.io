@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>orri.github.io</id>
+    <id>ottopan.github.io</id>
     <title>oriri</title>
-    <updated>2020-10-25T08:41:28.304Z</updated>
+    <updated>2020-10-25T08:49:20.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="orri.github.io"/>
-    <link rel="self" href="orri.github.io/atom.xml"/>
-    <logo>orri.github.io/images/avatar.png</logo>
+    <link rel="alternate" href="ottopan.github.io"/>
+    <link rel="self" href="ottopan.github.io/atom.xml"/>
+    <logo>ottopan.github.io/images/avatar.png</logo>
     <rights>All rights reserved 2020, oriri</rights>
     <entry>
         <title type="html"><![CDATA[这是一篇尝试性文章]]></title>
-        <id>https://orri.github.io/zhe-shi-yi-pian-chang-shi-xing-wen-zhang</id>
-        <link href="https://orri.github.io/zhe-shi-yi-pian-chang-shi-xing-wen-zhang"/>
+        <id>https://ottopan.github.io/zhe-shi-yi-pian-chang-shi-xing-wen-zhang</id>
+        <link href="https://ottopan.github.io/zhe-shi-yi-pian-chang-shi-xing-wen-zhang"/>
         <updated>2020-10-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[啦啦啦你看呀
 ]]></summary>
